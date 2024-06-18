@@ -13,6 +13,7 @@ public class Main {
     public static void printStrings(String [] arr){
         for (int i = 0; i < arr.length; i++) {
             System.out.println("number: "+arr[i]);
+            System.out.println("hello from release");
         }
     }
 }
