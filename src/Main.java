@@ -3,6 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("develop v2");
+        String [] strings={"sa","dasd","hello"};
+        printStrings(strings);
     }
     public static void printStrings(String [] arr){
         for (int i = 0; i < arr.length; i++) {
