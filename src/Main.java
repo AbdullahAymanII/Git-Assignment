@@ -5,6 +5,8 @@ public class Main {
         System.out.println("develop v2");
         String [] strings={"sa","dasd","hello"};
         printStrings(strings);
+        String [] strings2={"aaaaa","dddd","fffff"};
+        printStrings(strings);
     }
     public static void printStrings(String [] arr){
         for (int i = 0; i < arr.length; i++) {
