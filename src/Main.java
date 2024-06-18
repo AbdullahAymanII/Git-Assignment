@@ -14,4 +14,9 @@ public class Main {
             System.out.println("number: "+arr[i]);
         }
     }
+    public static void printChar(char [] arr){
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println("number: "+arr[i]);
+        }
+    }
 }
