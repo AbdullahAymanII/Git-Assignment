@@ -6,7 +6,9 @@ public class Main {
         String [] strings={"sa","dasd","hello"};
         printStrings(strings);
         String [] strings2={"aaaaa","dddd","fffff"};
-        printStrings(strings);
+        printStrings(strings2);
+        String [] strings3={"ccccc","asasssss","qqqqq"};
+        printStrings(strings3);
     }
     public static void printStrings(String [] arr){
         for (int i = 0; i < arr.length; i++) {
