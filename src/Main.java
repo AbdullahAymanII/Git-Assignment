@@ -9,6 +9,8 @@ public class Main {
         printStrings(strings2);
         String [] strings3={"ccccc","asasssss","qqqqq"};
         printStrings(strings3);
+        String [] strings4={"ccdascdcc","asdasasssss","qqdasdaqqq"};
+        printStrings(strings4);
     }
     public static void printStrings(String [] arr){
         for (int i = 0; i < arr.length; i++) {
